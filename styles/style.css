@@ -1,0 +1,26 @@
+.pages {
+  background-color: antiquewhite;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.pages ul {
+  display: inline-block;
+}
+
+.pages ul li {
+  display: inline-block;
+}
+
+.buttons {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: chartreuse;
+  color: white;
+  cursor: pointer;
+}
+
+a{
+    color: white;
+   text-decoration: none;
+}
